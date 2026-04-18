@@ -1,2 +1,2 @@
-# vslst-webs
-Random snippets of website codes
+# VSLst webs
+Random html, css, js testing codes
